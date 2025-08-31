@@ -43,7 +43,8 @@ After tuning, the model explained more variance in car prices and reduced predic
   ![Feature Importance](images/plot1.png)
 - **Actual vs Predicted plot**: shows how close predictions are to real values.
    ![Actual  vs Predicted](images/plot2.png)
-- **Decision tree diagram** (truncated for readability).  
+- **Decision tree diagram** (truncated for readability).
+- ![Decision tree diagram](images/car_tree.png)
 
 ---
 
