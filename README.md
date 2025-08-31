@@ -41,7 +41,8 @@ After tuning, the model explained more variance in car prices and reduced predic
 ## 📈 Visuals
 -  **Feature Importance**: Highlights which car attributes have the biggest impact on price.  
   ![Feature Importance](images/plot1.png)
-- **Actual vs Predicted plot**: shows how close predictions are to real values.  
+- **Actual vs Predicted plot**: shows how close predictions are to real values.
+   ![Actual  vs Predicted](images/plot1.png)
 - **Decision tree diagram** (truncated for readability).  
 
 ---
